@@ -6,3 +6,6 @@ https://dev.twitch.tv/docs/game-engine-plugins/
 - using unreal due to having less experience so using it as a way to learn more about the engine
 
 - https://dev.twitch.tv/docs/game-engine-plugins/unreal-guide-blueprints/
+
+- changed to 5.3.1 meaning had to change plugin as it was made for 5.2.
+
